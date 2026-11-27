@@ -53,7 +53,7 @@ Pré-requisito: **Node.js 22.13 ou mais novo** ([nodejs.org](https://nodejs.org)
 Chrome ou Edge no computador.
 
 ```bash
-git clone https://github.com/<seu-usuario>/circuito-ludico.git
+git clone https://github.com/Guilherme-Baldo/circuito-ludico.git
 cd circuito-ludico/api
 npm start
 ```
