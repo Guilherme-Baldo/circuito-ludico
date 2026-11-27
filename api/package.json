@@ -1,0 +1,15 @@
+{
+  "name": "circuito-ludico-api",
+  "version": "1.0.0",
+  "description": "API do Circuito Lúdico (projeto de extensão ELLP – UTFPR-CP). Node.js puro + SQLite nativo, sem dependências externas.",
+  "type": "module",
+  "main": "src/server.js",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning src/server.js",
+    "test": "node --disable-warning=ExperimentalWarning --test test/*.test.js"
+  },
+  "license": "MIT"
+}
